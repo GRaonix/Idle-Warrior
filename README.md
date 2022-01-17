@@ -43,6 +43,11 @@ Dummy to hit at max reached zone level, to test abilities and upgrade a skill.
 &nbsp;
 Offline progress : experience, ennmies defeated, ...
 
+Shop :
+====
+Gold to spend in level access/keys, basic upgrades like training and others like a house producing facilities to gain more passive gold.
+
+====
 Session storage & game save export in json txt format.
 
 
