@@ -48,7 +48,7 @@ Shop :
 Gold to spend in level access/keys, basic upgrades like training and others like a house producing facilities to gain more passive gold.\
 Weapons upgrades, armor upgrades & pets bonuses (food/...).
 
-Pets :
+(Pets :)
 ====
 Little attack and def bonus, passive mostly. Some will be available in the shop, others by defeating end level bosses.
 
@@ -60,7 +60,8 @@ Health and Swing bars on top of the player and ennemy.\
 (Green and red);
 The player will move a bit with each hit/swing and the ennemy too.\
 Fade out animation when someone gets defeated.\
-Scrolling hit damage on top of player head (done and received), experience and gold earned.
+Scrolling hit damage on top of player head (done and received), experience and gold earned.\
+Top bar with HP / Gold / Experience / (Diamonds).
 
 Main UI :
 ========
