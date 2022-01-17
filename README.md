@@ -10,9 +10,6 @@ Screenshots examples :
 ![Screen 2](screen02.png)
 
 
-
-
-
 This project will use Vue.js. (a tech that I need to learn).
 
 ## Other examples of Idle/incremental games : 
@@ -45,7 +42,8 @@ Offline progress : experience, ennmies defeated, ...
 
 Shop :
 ====
-Gold to spend in level access/keys, basic upgrades like training and others like a house producing facilities to gain more passive gold.
+Gold to spend in level access/keys, basic upgrades like training and others like a house producing facilities to gain more passive gold.\
+Weapons upgrades, armor upgrades & pets bonuses (food/...).
 
 Pets :
 ====
@@ -67,7 +65,8 @@ A link to the forge where you could craft new weapons.
 Level landscapes :
 ================
 
-Random generations of stages, with night/day cycles (with a nice gradient), a ground line, mountains in the background, Sun & Moon following the time of the day.\
+Random generations of stages, with night/day cycles (with a nice gradient), a ground line, mountains in the background.\
+Sun & Moon following the time of the day.\
 Scrolling clouds.
 
 ![Landscape](landscape.png)
@@ -76,3 +75,4 @@ Session storage :
 ==============
 Session storage & game save export in json txt format.
 Or using a SQLite DB ...
+Maybe then a login system to keep the saves. With an email verification process. (maybe later).
