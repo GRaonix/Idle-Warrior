@@ -14,7 +14,7 @@ Screenshots examples :
 
 This project will use Vue.js. (a tech that I need to learn).
 
-#Other examples of Idle/incremental games : 
+## Other examples of Idle/incremental games : 
 
 ![Screen 3](nguidle.jpg)
 
