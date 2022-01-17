@@ -1,6 +1,6 @@
 # Idle-Warrior
 
-It's an Opensource incremental game where you could upgrade your character by spending ressources brought by combats.
+It's an Opensource incremental game where you could upgrade your character by spending ressources brought by combats.\
 Ressourcs like experience, gold, etc ...
 
 Screenshots examples :
