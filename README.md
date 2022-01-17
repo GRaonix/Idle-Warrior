@@ -33,9 +33,9 @@ Diamonds -> Shop for special items. Like idle combat after death, ...
 
 Zones or levels :
 ===============
-Ennemies :
+Ennemies : Normal and Bosses (at the end of each levels)
 HP, Attack, Defense, Speed.
-Loot : gold, experience, research (experience for pets).
+Loot : gold, experience, research (experience for pets), 
 
 Training :
 ========
@@ -47,7 +47,27 @@ Shop :
 ====
 Gold to spend in level access/keys, basic upgrades like training and others like a house producing facilities to gain more passive gold.
 
+Pets :
 ====
+Little attack and def bonus, passive mostly. Some will be available in the shop, others by defeating end level bosses.
 Session storage & game save export in json txt format.
 
+Combat UI :
+===========
+A tower system that show the progress of the character, at each top of the towers there will be a final boss.
+Each boss will grant passage for the next tower with a drawbridge.
 
+Main UI :
+========
+Where the characters stats will be shown.
+A link to the shop,
+A link to the combat UI,
+A link to the forge where you could craft new weapons.
+
+Level landscapes :
+================
+
+Random generations of stages, with night/day cycles (with a nice gradient), a ground line, mountains in the background, Sun & Moon following the time of the day.\
+Scrolling clouds.
+
+![Landscape](landscape.png)
