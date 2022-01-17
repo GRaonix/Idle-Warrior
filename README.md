@@ -67,9 +67,10 @@ A link to the forge where you could craft new weapons / buy weapons.
 Level landscapes :
 ================
 
-Random generations of stages, with night/day cycles (with a nice gradient), a ground line, mountains in the background.\
+Random & procedural generation of stages, with night/day cycles (with a nice gradient and a starry sky), a ground line, mountains in the background.\
 Sun & Moon following the time of the day.\
-Scrolling clouds.
+Scrolling clouds. (maybe scrolling mountains)\
+Animations from stages to stages, with a parallax scrolling.
 
 ![Landscape](landscape.png)
 
