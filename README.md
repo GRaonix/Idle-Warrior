@@ -40,7 +40,7 @@ Loot : gold, experience, research (experience for pets).
 Training :
 ========
 Dummy to hit at max reached zone level, to test abilities and upgrade a skill.
-
+&nbsp;
 Offline progress : experience, ennmies defeated, ...
 
 Session storage & game save export in json txt format.
