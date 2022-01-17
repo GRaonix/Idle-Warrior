@@ -14,3 +14,10 @@ Screenshots examples :
 
 This project will use Vue.js. (a tech that I need to learn).
 
+Other examples of Idle games : 
+
+![Screen 3](nguidle.jpg)
+
+![Screen 4](yourchronicles.jpg)
+
+
