@@ -25,8 +25,8 @@ This project will use Vue.js. (a tech that I need to learn).
 Character :
 =========
 HP/life
-Level -> More HP, Attack, Defense, Speed, 
-Gold -> buy basic items.
+Level -> More HP, Attack, Defense, Speed, \
+Gold -> buy basic items.\
 
-Experience -> To level up. give new abilities.
+Experience -> To level up. give new abilities.\
 Diamonds -> Shop for special items.
