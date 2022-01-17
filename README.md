@@ -24,8 +24,9 @@ Character :
 HP/life
 Level -> More HP, Attack, Defense, Speed, \
 Gold -> buy basic items.\
-Weapon -> speed, attack value (dps)
-Armor -> defence (hit reduction).
+Weapon -> speed, attack value (dps), crit % chance.(double atck or a value that you could upgrade).
+Armor -> defense (hit reduction). HP -= (ennemy damage - defense)\ 
+:> (maybe an inventory system afterwards.)
 
 Experience -> To level up. give new abilities.\
 Diamonds -> Shop for special items. Like idle combat after death, ...
@@ -54,15 +55,20 @@ Little attack and def bonus, passive mostly. Some will be available in the shop,
 
 Combat UI :
 ===========
-A tower system that show the progress of the character, at each top of the towers there will be a final boss.
-Each boss will grant passage for the next tower with a drawbridge.
+
+Health and Swing bars on top of the player and ennemy.\
+(Green and red);
+The player will move a bit with each hit/swing and the ennemy too.\
+Fade out animation when someone gets defeated.\
+Scrolling hit damage on top of player head (done and received), experience and gold earned.
 
 Main UI :
 ========
-Where the characters stats will be shown.
-A link to the shop,
-A link to the combat UI,
+Where the characters stats will be shown.\
+A link to the shop,\
+A link to the combat UI,\
 A link to the forge where you could craft new weapons / buy weapons.
+
 
 Level landscapes :
 ================
