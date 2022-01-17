@@ -4,6 +4,7 @@ It's an incremental game where you could upgrade your character by spending ress
 Ressourcs like experience, gold, etc ...
 
 Screenshots examples :
+[Warrior Journey](https://warriorsjourney.sixbytesunder.com/)
 ![Screen 1](screen01.png)
 
 ![Screen 2](screen02.png)
