@@ -1,6 +1,6 @@
 # Idle-Warrior
 
-It's an incremental game where you could upgrade your character by spending ressources brought by combats.
+It's an Opensource incremental game where you could upgrade your character by spending ressources brought by combats.
 Ressourcs like experience, gold, etc ...
 
 Screenshots examples :
@@ -50,7 +50,7 @@ Gold to spend in level access/keys, basic upgrades like training and others like
 Pets :
 ====
 Little attack and def bonus, passive mostly. Some will be available in the shop, others by defeating end level bosses.
-Session storage & game save export in json txt format.
+
 
 Combat UI :
 ===========
@@ -71,3 +71,8 @@ Random generations of stages, with night/day cycles (with a nice gradient), a gr
 Scrolling clouds.
 
 ![Landscape](landscape.png)
+
+Session storage :
+==============
+Session storage & game save export in json txt format.
+Or using a SQLite DB ...
