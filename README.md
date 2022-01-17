@@ -1,6 +1,6 @@
 # Idle-Warrior
 
-It's an incremental game where you could buff up your character by spending ressources brought by combats.
+It's an incremental game where you could upgrade your character by spending ressources brought by combats.
 Ressourcs like experience, gold, etc ...
 
 Screenshots examples :
@@ -12,5 +12,5 @@ Screenshots examples :
 
 
 
-This project will use Vue.js.
+This project will use Vue.js. (a tech that I need to learn).
 
