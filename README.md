@@ -23,7 +23,9 @@ Character :
 =========
 HP/life
 Level -> More HP, Attack, Defense, Speed, \
-Gold -> buy basic items.
+Gold -> buy basic items.\
+Weapon -> speed, attack value (dps)
+Armor -> defence (hit reduction).
 
 Experience -> To level up. give new abilities.\
 Diamonds -> Shop for special items. Like idle combat after death, ...
@@ -60,7 +62,7 @@ Main UI :
 Where the characters stats will be shown.
 A link to the shop,
 A link to the combat UI,
-A link to the forge where you could craft new weapons.
+A link to the forge where you could craft new weapons / buy weapons.
 
 Level landscapes :
 ================
