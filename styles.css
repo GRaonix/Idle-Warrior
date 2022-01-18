@@ -82,3 +82,35 @@
     font-weight: normal;
     font-family: monospace;
   }
+
+  #background-scroll {
+    position: absolute;
+    z-index: -20;
+    top: 0;
+    right: 0;
+    bottom: auto;
+    left: auto;
+    height: 100%;
+    width: 100%;
+    background: url(https://opengameart.org/sites/default/files/swamp.png);
+    background-size: 500px 340px;
+    display: none;
+    animation: scrollEast 15s linear infinite;
+  }
+
+  @keyframes scrollEast {
+    0% {
+      background-position: 0 0;
+    }
+    100% {
+      background-position: -500px 0;
+    }
+  }
+  @keyframes scrollWest {
+    0% {
+      background-position: 0 0;
+    }
+    100% {
+      background-position: -500px 0;
+    }
+  }
