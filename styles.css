@@ -114,3 +114,8 @@
       background-position: -500px 0;
     }
   }
+
+  pre {
+    font-size:40px;
+    font-family:monospace;
+}
