@@ -12,8 +12,9 @@ const content = document.getElementsByClassName("content")[0];
 const scene = document.getElementById("scene");
 
 const config = {
-  size: 2000,
+  size: 200,
 };
+
 
 
 
